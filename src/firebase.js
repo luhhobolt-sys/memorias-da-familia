@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getFirestore, doc, setDoc, getDoc, collection, getDocs } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "SUBSTITUI_AQUI",
-  authDomain: "SUBSTITUI_AQUI",
-  projectId: "SUBSTITUI_AQUI",
-  storageBucket: "SUBSTITUI_AQUI",
-  messagingSenderId: "SUBSTITUI_AQUI",
-  appId: "SUBSTITUI_AQUI"
+  apiKey: "AIzaSyDYtMLNNQgvRzqNnPRgru_LyS-rZHF_7LA",
+  authDomain: "memorias-familia-672a7.firebaseapp.com",
+  projectId: "memorias-familia-672a7",
+  storageBucket: "memorias-familia-672a7.firebasestorage.app",
+  messagingSenderId: "483935160708",
+  appId: "1:483935160708:web:8274440f088cccdc6ef5d1"
 };
 
 const app = initializeApp(firebaseConfig);
